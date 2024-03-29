@@ -24,7 +24,8 @@ This app serves as an excellent hands-on learning tool, covering a wide range of
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/611ddcbd-b925-4621-905d-59cf9b365f4e" width="30%"> 
 
 ### Quiz App:
-The quiz app offers users multiple-choice questions with four answer options. Users select their answers, progressing through the quiz. Upon completion, the app reveals the user's score and provides feedback, including the correct answers for the questions attempted.
+The Quiz App offers users multiple-choice questions with four answer options. Users select their answers, progressing through the quiz. Upon completion, the app reveals the user's score and provides feedback, including the correct answers for the questions attempted.
+
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/07ec4f61-67e6-4d1f-a0f4-77cd20afd53e" width="30%"> 
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/7ae2d83a-e09d-4ca3-82c5-e77231169992" width="30%"> 
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/bc228cc7-515e-4988-93ee-b0d927a6cc9b" width="30%"> 
