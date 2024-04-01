@@ -31,3 +31,9 @@ The Quiz App which allows you to start a quiz, then navigate various Flutter-rel
 
 ### Expense Tracer App
 An Expense Tracker App allows users to register their expenses and also allow users to see their expenses both in a list and in a chart.
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/954d870c-de00-41ee-8dda-794ea28d20a6" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/820f698f-839a-40cd-9ffa-8ba3fca30f80" width="30%">
+
+### Todo App
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ea9fb88a-d38c-4def-9106-f23b15f2b76b" width="30%">
