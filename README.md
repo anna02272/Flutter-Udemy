@@ -36,4 +36,16 @@ An Expense Tracker App allows users to register their expenses and also allow us
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/820f698f-839a-40cd-9ffa-8ba3fca30f80" width="30%">
 
 ### Todo App
+A Todo App featuring buttons for task checking, unchecking, and sorting tasks in ascending or descending order. 
+
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ea9fb88a-d38c-4def-9106-f23b15f2b76b" width="30%">
+
+### Meals App
+The Meals App which allows users to browse various meal categories, pick meals, and read the meal ingredients and instructions, mark meals as favorites, switch between all meals and favorited meals, and also switch to a totally different page where various filters can be set to filter the meals that will actually be shown in this all meals area.
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/b499585f-7f28-4212-acfc-0634e86363b4" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/df1cc2dd-37aa-45a7-9cff-fd6e7815fd58" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/e415f9ef-1fcb-4c4a-9d5d-54f7e79d5e45" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/9f388c48-b2cf-4073-9374-c0f81655343e" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/3c1838a0-6621-453f-93bd-0d1446cfb6b6" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/f7aedd65-0031-4ca2-9452-b433f5f97dd6" width="30%">
