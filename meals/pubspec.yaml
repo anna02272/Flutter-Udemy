@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_fonts: ^6.2.1
   transparent_image: ^2.0.1
+  flutter_riverpod: ^2.5.1
 
 dev_dependencies:
   flutter_test:
