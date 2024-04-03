@@ -155,10 +155,7 @@ class _GroceryListState extends State<GroceryList> {
           ),
         ],
       ),
-      body: FutureBuilder(
-        future: future,
-        builder: builder,
-      ),
+      body: content,
     );
   }
 }
