@@ -58,3 +58,9 @@ The Shopping List app allows users to maintain and manage their shopping lists b
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/7ee07402-3f9c-4f17-90f8-cd4b53f54f37" width="30%">
 
 ### Favorite Places App
+The Favorite Places App allows users to save and manage their favorite locations by taking a picture of a location, adding the current location automatically, and save the details of their favorite places for future reference.
+
+<img src="" width="30%">
+<img src="" width="30%">
+<img src="" width="30%">
+<img src="" width="30%">
