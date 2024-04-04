@@ -49,3 +49,18 @@ The Meals App which allows users to browse various meal categories, pick meals, 
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/9f388c48-b2cf-4073-9374-c0f81655343e" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/3c1838a0-6621-453f-93bd-0d1446cfb6b6" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/f7aedd65-0031-4ca2-9452-b433f5f97dd6" width="30%">
+
+### Shopping List App
+The Shopping List app allows users to maintain and manage their shopping lists by adding items with  details such as the item name, quantity, and category.
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ff9fd50b-896e-45a6-bf3e-9ccbc277e577" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/6909a894-311a-40bf-bee1-ad33db7bb5d5" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/7ee07402-3f9c-4f17-90f8-cd4b53f54f37" width="30%">
+
+### Favorite Places App
+The Favorite Places App allows users to save and manage their favorite locations by taking a picture of a location, adding the current location automatically, and save the details of their favorite places for future reference.
+
+<img src="" width="30%">
+<img src="" width="30%">
+<img src="" width="30%">
+<img src="" width="30%">
