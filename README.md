@@ -66,8 +66,15 @@ The Favorite Places App allows users to save and manage their favorite locations
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/20efc88f-50a2-4e95-850a-c56b759a551c" width="30%">
 
 ### Chat App
+A chat application allows users to send and receive messages, features push notifications for new messages, enforces user authentication for account creation and login, and requires users to upload an image during the signup process. 
 
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/1d480277-5a7c-46a0-9a50-3aab7148d3da" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ee6b1f58-b1d8-4b05-8940-19e405718e6b" width="30%">
-<img src="" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/76814b39-1dff-47f0-b81c-29ec5a5c4416" width="30%">
+
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/d17fdb53-b3f9-4380-bf6d-1ecab7f1e250" width= "30%">
+
+
+
 
