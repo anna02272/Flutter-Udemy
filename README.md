@@ -15,6 +15,10 @@ This is the GitHub repository for the Udemy course "A Complete Guide to the Flut
 - Adding animations and page transitions
 - Image upload and push notifications
 
+## Certificate
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/da998227-60f3-4a1d-a68a-00eaab6a7f43" width = "70%">
+
 ## Projects I did through this course:
 
 ### Roll Dice App: 
@@ -71,8 +75,6 @@ A chat application allows users to send and receive messages, features push noti
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/1d480277-5a7c-46a0-9a50-3aab7148d3da" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ee6b1f58-b1d8-4b05-8940-19e405718e6b" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/76814b39-1dff-47f0-b81c-29ec5a5c4416" width="30%">
-
-
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/d17fdb53-b3f9-4380-bf6d-1ecab7f1e250" width= "30%">
 
 
