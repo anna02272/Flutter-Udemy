@@ -60,12 +60,14 @@ The Shopping List app allows users to maintain and manage their shopping lists b
 ### Favorite Places App
 The Favorite Places App allows users to save and manage their favorite locations by taking a picture of a location, adding the current location automatically, and save the details of their favorite places for future reference.
 
-<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/20efc88f-50a2-4e95-850a-c56b759a551c" width="30%">
-<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/2589f026-56ec-4e11-9487-e8a43047eab4" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/c8046470-d276-4ceb-8041-14ac65b7de09" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/2589f026-56ec-4e11-9487-e8a43047eab4" width="30%">
 <img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/98d22cf0-6628-48c7-bad0-2f97803b8ad5" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/20efc88f-50a2-4e95-850a-c56b759a551c" width="30%">
 
 ### Chat App
-![Screenshot_2024-04-04-13-38-26-090_com example chat_app](https://github.com/anna02272/Flutter-Udemy/assets/96575598/ee6b1f58-b1d8-4b05-8940-19e405718e6b)
-![Screenshot_2024-04-04-14-26-21-018_com example chat_app](https://github.com/anna02272/Flutter-Udemy/assets/96575598/1d480277-5a7c-46a0-9a50-3aab7148d3da)
+
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/1d480277-5a7c-46a0-9a50-3aab7148d3da" width="30%">
+<img src="https://github.com/anna02272/Flutter-Udemy/assets/96575598/ee6b1f58-b1d8-4b05-8940-19e405718e6b" width="30%">
+<img src="" width="30%">
 
